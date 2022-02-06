@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Raven AI**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **DL/ML**
 
 - 📫 How to reach me **manikandan.paramasivan2018@gmail.com**
 
